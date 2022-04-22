@@ -31,9 +31,10 @@ In this repository you'll find:
 with List.contains when you can't override object compareTo and hashCode.
 
 ## 🚧 Contributing 🚧
-If you see a potential improvement in coding, structure or best practices, please, let me know. I'm here to learn!
+If you see a potential improvement in coding, structure or best practices, please, let me know. I'm here to learn! 
+
+
 If you want to contribute, don't be shy! Open a pull request and let's create something better together!
----
 
 ## Show your support
 
