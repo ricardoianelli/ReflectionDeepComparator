@@ -7,9 +7,9 @@
 </h3>
 
 
-## About
+## 📚 About 📚
 
-🖥️ During studies, I came up with a problem while trying to check if a list contained some custom objects, but without the ability to change those objects
+During studies, I came up with a problem while trying to check if a list contained some custom objects, but without the ability to change those objects
 compareTo and hashCode implementation in their classes. That lead me to a deeper problem, deep object comparison, especially between objects involved in multiple inheritance and/or with private fields.
 
 
@@ -22,12 +22,11 @@ In this repository you'll find:
 - **Tests class:** Class containing some tests proving that in some situations, like checking if a list contains an object, can be difficult if you don't have too much freedom to change every class.
 - **sampleclasses package:** Some sample classes used in Tests.
 
-##🖥️ How to Run 🖥️
-### Requirements: 
+### ⚙️ Requirements⚙️ 
 - Java 8+ Preferably (Though it may run in much older versions)
 - Junit (any recent version)
 
-### Running it:
+### 🚀 Running it 🚀
 - Just open the code and run Test class. You can study (and play with!) the test cases to understand more about the problem
 with List.contains when you can't override object compareTo and hashCode.
 
